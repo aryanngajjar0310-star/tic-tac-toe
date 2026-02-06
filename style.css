@@ -35,6 +35,7 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0.15);
     background-color: #E9C46A;
+    font-size: 8Vmin;
 }
 
 .Reset {
@@ -44,4 +45,5 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0.15);
     background-color:crimson;
+
 }
